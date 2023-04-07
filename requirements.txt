@@ -1,0 +1,5 @@
+py-topping
+pysimplegui
+requests
+## Optional for easy to use
+# pyinstaller
