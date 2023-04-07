@@ -7,10 +7,17 @@ In this GUI, include testing for;
 
 ## How to use
 1. Git Clone
-```git clone ```
+
+```git clone https://github.com/chanon-kr/lazy_testing_gui.git```
+
 2. Install Dependencies
+
 ```pip install -r requirements.txt```
+
 3. Run the GUI
+
 ```python main.py```
+
 4. --Optional-- Pack into an exe for user
+
 ```pyinstaller --onefile main.py```
