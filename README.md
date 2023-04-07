@@ -18,6 +18,6 @@ In this GUI, include testing for;
 
 ```python main.py```
 
-4. --Optional-- Pack into an exe for user
+4. --Optional-- Pack into an exe for user (You need to uncomment the pyinstaller in requirements.txt)
 
 ```pyinstaller --onefile main.py```
